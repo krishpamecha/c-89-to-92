@@ -1,0 +1,60 @@
+.background_image {
+    background-image: url(Background/4.jpg);
+    background-size: cover;
+    padding: 30px;
+}
+
+.login_div1,
+.login_div2 {
+    background-color: black;
+    padding: 30px;
+    float: none;
+    border-radius: 35px;
+    width: 550px;
+}
+
+
+#player1_name,
+#player2_name {
+    display: inline-block;
+    margin-left: 40px;
+    color: gold;
+}
+
+#word {
+    width: 60%;
+}
+
+#word_display {
+    letter-spacing: 7px;
+}
+
+#output {
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+.btn {
+    background: rgb(224, 102, 101);
+    background: radial-gradient(circle, rgba(224, 102, 101, 1) 25%, rgba(34, 43, 80, 1) 57%);
+    border: dashed;
+    border-color: black;
+    color: gold;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+}
+h3
+{
+color: gold;
+}
+lable
+{
+    color: gold;
+}
